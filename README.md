@@ -10,12 +10,13 @@
 
 ## Tecnologias Utilizadas
 
-- [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [React](https://reactjs.org/)
-- [Node.js](https://nodejs.org/)
-- [PostgreSQL](https://www.postgresql.org/)
+- ![HTML5](https://fontawesome.com/icons/html5?f=brands&s=solid)
+- ![CSS3](https://fontawesome.com/icons/css3-alt?f=brands&s=solid)
+- ![JavaScript](https://fontawesome.com/icons/js?f=brands&s=solid)
+- ![React](https://fontawesome.com/icons/react?f=brands&s=solid)
+- ![SASS](https://fontawesome.com/icons/sass?f=brands&s=solid)
+
+
 
 
 ⭐️ Obrigado por visitar! ⭐️
